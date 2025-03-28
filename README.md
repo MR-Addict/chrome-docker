@@ -5,7 +5,7 @@
 | Name                 | Version |
 | :------------------- | :------ |
 | google-chrome-stable | latest  |
-| node:slim            | latest  |
+| node:22-slim         | latest  |
 
 ## 2. Build Image
 
